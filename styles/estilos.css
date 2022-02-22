@@ -1,9 +1,15 @@
-h1 {
-    color: rgb(255, 30, 135);
-    align-content: center;
+body{
+    color: gray;
+    text-align: left;
+    font-family: "Arial";
 }
-
-h2 {
-    color: rgb(255, 30, 135);
-    align-self: center;
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #000;
+    margin: 0 auto;
+}
+#container h1{
+    font-size: 20px;
 }
